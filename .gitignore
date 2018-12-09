@@ -1,0 +1,6 @@
+.DS_Store
+Tennis.app/
+Tennis_Windows_x86_64/
+Tennis_Linux_NoVis/
+*.log
+./.ipynb_checkpoints
